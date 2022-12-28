@@ -1,7 +1,12 @@
 #include<iostream>;
+
+using namespace std;
+
 void main(){
 
-std::cout << "cos wypiszemy";
+cout << "cos wypiszemy";
+
+
 
 
 };
